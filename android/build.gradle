@@ -11,6 +11,7 @@ buildscript {
 }
 
 android {
+    namespace "com.github.reactNativeMPAndroidChart"
     compileSdkVersion 23
     buildToolsVersion "23.0.1"
 
